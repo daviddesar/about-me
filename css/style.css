@@ -337,7 +337,7 @@ button:focus,
     border-color : #ffffff;
     }
 .header .content .download__cv {
-    display: inline-block;
+    display: none;
     color: rgba(255, 255, 255, 0.7);
     text-decoration: none;
     margin-top: 10px;
